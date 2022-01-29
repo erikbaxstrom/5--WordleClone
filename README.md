@@ -1,4 +1,4 @@
-# 4--WordleClone
+# 5--WordleClone
 A clone of Wordle using Python
 
 * choose a five letter word randomly from a pre-defined list
